@@ -1,0 +1,21 @@
+'Format Link' button doesnt do anything:
+
+ This feature decode URLs with ' % ' symbol in it, so it will be readable.
+ If the url contains only readable signs, then it won't do anything.
+ If the url starts with "https://diez.co.il/product/" - then it will take whatever comes after that and use it as the name of the file.
+
+There was an issue generating the QR:
+
+ Please make sure that you have a valid link, directory and file name.
+ Don't use any special symbols such as: !, @, #, $, %, etc. in the file name.
+
+QR was created successfully but I can't find it:
+
+ Please make sure that the directory exists.
+ Try to change to another directory.
+
+I have an issue that could not be solved here:
+
+ You are welcome to write to me at islirazah@gmail.com
+ I might be able to help you, but I might never answer :)
+
